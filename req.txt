@@ -1,0 +1,16 @@
+pip==21.3.1
+cx-Oracle==7.3.0
+et-xmlfile==1.0.1
+jdcal==1.4.1
+numpy==1.18.3
+openpyxl==3.0.3
+pandas==1.0.3
+psycopg2==2.8.5
+pyodbc==4.0.30
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.26.0
+six==1.14.0
+tabulate==0.8.7
+xlrd==1.2.0
+simple-salesforce==1.11.4

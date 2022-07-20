@@ -1,0 +1,1 @@
+4637|C:\Users\zg80\OneDrive - Sun Life Financial\Documents\ifrs-actuarial-etl-automation\Configrations\Acturial_Connections\aods_can_indv_ins_sit.ini
